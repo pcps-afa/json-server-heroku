@@ -1,15 +1,24 @@
 {
-  "posts":[
+  "questions":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "title": "Do you see an error code?",
+    },
+        {
+      "id" : 1,
+      "title": "Is the yellow light blinking?",
     }
   ],
-  "otherTable":[
+  "solutions":[
   {
     "id":0,
-    "title": "test"
+    "title": "exchange electronics",
+    "probability": "0.8"
+},
+      {
+    "id":1,
+    "title": "call technician",
+    "probability": "0.2"
 }
 ]
 }
