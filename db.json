@@ -6,4 +6,10 @@
       "content" : "My first content!"
     }
   ]
+  "otherTable":[
+  {
+    "id":0,
+    "title": "test"
+}
+]
 }
